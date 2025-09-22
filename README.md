@@ -1,4 +1,8 @@
-# First-task1import java.util.Scanner;
+l # First-task1
+
+
+
+import java.util.Scanner;
 class Calculator {
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
